@@ -200,7 +200,7 @@ Each template is a separate function (`createPhishingEmbed`, `createGiveawayEmbe
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/ra-websocket.git
+git clone https://github.com/Philorganon/ra-websocket.git
 cd ra-websocket
 npm install discord.js axios ws puppeteer jsqr
 ```
